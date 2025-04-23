@@ -1,0 +1,13 @@
+body {
+    background-image: url(i\ \(6\).webp);
+    background-size: cover;
+}
+
+ul {
+    li {
+        color: rgb(151, 245, 0);
+    }
+}
+ul li:hover{
+    color: blue;
+}
